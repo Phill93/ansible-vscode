@@ -13,6 +13,3 @@ galaxy_info:
   galaxy_tags:
     - vscode
     - visual-studio-code
-
-dependencies:
-  - role: AlphaHydrae.homebrew-cask
